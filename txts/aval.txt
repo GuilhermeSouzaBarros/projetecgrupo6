@@ -1,0 +1,4 @@
+teoremadepitagoras;user1email@gmail.com;user1;5;cor-estrela-verde;Muito Bom
+teoremadepitagoras;user2email@gmail.com;user2;1;cor-estrela-vermelha;Péssimo
+sintaxe;user1email@gmail.com;user1;3;cor-estrela-amarela;Mais ou menos
+teoremadepitagoras;user3email@gmail.com;user3;3;cor-estrela-amarela;Ok

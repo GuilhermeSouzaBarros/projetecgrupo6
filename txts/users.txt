@@ -1,0 +1,3 @@
+user1;user1email@gmail.com;1234;1;
+user2;user2email@gmail.com;abcd;0;
+user3;user3email@gmail.com;12cd;0;

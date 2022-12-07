@@ -1,0 +1,9 @@
+matematica;Matemática;
+portugues;Português;
+ciencias;Ciências;
+geografia;Geografia;
+historia;História;
+filosofia;Filosofia;
+sociologia;Sociologia;
+ingles;Inglês;
+artes;Artes;

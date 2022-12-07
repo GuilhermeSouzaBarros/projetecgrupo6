@@ -1,0 +1,3 @@
+teoremadepitagoras;matematica;texto@imagens;Teorema de Pitagoras;img$imagens/exemplo.png@texto$O teorema de pitágoras define que o quadrado da hipotenusa é igual a soma do quadrado dos catetos: a² = b² + c²@img$imagens/Prova_pitagoras_animacao.gif;user1email@gmail.com;user1;user1email@gmail.com;user1;
+testemat;matematica;texto;Teste Mat;texto$Isto é um teste@texto$Segundo texto;user2email@gmail.com;user2;0;0;
+testeport;portugues;texto;Teste Port;texto$Teste em português@texto$Segundo texto português;user2email@gmail.com;user2;user1@gmail.com;user1;
